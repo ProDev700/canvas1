@@ -1,0 +1,20 @@
+#container1 {
+    width: 45%;
+}
+
+
+
+#containr2 {
+    width: 45%;
+}
+
+#container_div {
+    width: 90%;
+    box-shadow: 5px 5px 5px grey;
+    height: 15%;
+}
+
+#container_div2 {
+    height: 35px;
+    box-shadow: 5px 5px 5px grey;
+}
